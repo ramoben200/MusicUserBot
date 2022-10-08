@@ -1,1 +1,1 @@
-worker: python3 -m ֆɦɨռɨɢǟʍɨ_ʀʏʊӄ
+worker: python3 -m on.py
